@@ -1,8 +1,15 @@
-# Libraries
-![forge](https://img.shields.io/badge/forge-14.23.5.2854-brightgreen?style=flat-square)
-![Optifine](https://img.shields.io/badge/Optifine-OptiFine%201.12.2%20HD%20U%20F6%20pre1-brightgreen.svg?style=flat-square)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-brightgreen?style=flat-square)
+## Minecraft and Optiforge
 
-## Описание
+This repository contains main libraries for Minecraft setup with Optifine + Forge (Optiforge). If you want to use some these libraries, you must be known they support **only** russian language.
 
-Данные библиотеки и пакеты данных необходимы для запуска наших игровых сборок на версии (ядре) forge-1.12.2-14.23.5.2854. Также здесь находятся специальные файлы для запуска Optifine и работы игры при помощи лаунчера (полноценный запуск) - из-за чего удалять различные файлы, или их редактирование не рекомендуется.
+## Packages
+
+** **
+
+![Forge Package](https://img.shields.io/badge/forge-14.23.5.2854-blue?style=for-the-badge)
+
+![Optifine Package](https://img.shields.io/badge/Optifine-%201.12.2%20HD%20U%20F6%20pre1-blue?style=for-the-badge)
+
+![Minecraft Package](https://img.shields.io/badge/Minecraft-1.12.*-yellow?style=for-the-badge)
+
+** **

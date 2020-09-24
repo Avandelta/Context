@@ -8,7 +8,7 @@ This repository contains special context (libraries) for Minecraft setup. Packag
 
 | Version (in Minecraft) | Information Context | Branch |
 | :--------------------: | :-----------------: | :-------------: |
-| ``Forge 14.23.5.2854 (Modded 1.12.2)`` | This context includes specified version of Forge (14.23.5.2854) and Optifine (1.12.2 HD U F6 pre1) on Minecraft 1.12.2. | ``1.12.2`` |
+| ``Forge 14.23.5.2854 (Modded 1.12.2)`` | This context includes specified version of [Forge](https://files.minecraftforge.net/) (14.23.5.2854) and [Optifine](https://optifine.net/) (1.12.2 HD U F6 pre1) on [Minecraft](https://www.minecraft.net/) 1.12.2. | ``1.12.2`` |
 
 ## License
 

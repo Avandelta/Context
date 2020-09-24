@@ -16,7 +16,7 @@ This repository is licensed under [MIT License](https://github.com/Avandelta/Con
 
 ```LICENSE
 
-GNU LESSER GENERAL PUBLIC LICENSE
+                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
 
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.

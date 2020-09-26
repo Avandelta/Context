@@ -10,6 +10,8 @@ This repository contains special context (libraries) for Minecraft setup. Packag
 | :--------------------: | :-----------------: | :-------------: |
 | ``Vanilla 1.12.2`` | This context includes clear Minecraft 1.12.2. | [1.12.2](https://github.com/Avandelta/Context/tree/1.12.2) |
 | ``Forge 14.23.5.2854 (Modded 1.12.2)`` | This context includes specified version of [Forge](https://files.minecraftforge.net/) (14.23.5.2854) and [Optifine](https://optifine.net/) (1.12.2 HD U F6 pre1) on [Minecraft](https://www.minecraft.net/) 1.12.2. | [Forge-1.12.2](https://github.com/Avandelta/Context/tree/Forge-1.12.2) |
+| ``Vanilla 1.16.1`` | This context includes clear Minecraft 1.16.1. | [1.16.1](https://github.com/Avandelta/Context/tree/1.16.1) |
+
 
 ## License
 

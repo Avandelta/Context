@@ -15,7 +15,7 @@ This repository contains special context (libraries) for Minecraft setup. Packag
 
 ## License
 
-This repository is licensed under [MIT License](https://github.com/Avandelta/Context/blob/master/LICENSE) due [Forge License](https://github.com/MinecraftForge/MinecraftForge/blob/1.16.x/LICENSE.txt).
+This repository is licensed under [MIT License](https://github.com/Avandelta/Context/blob/main/LICENSE) due [Forge License](https://github.com/MinecraftForge/MinecraftForge/blob/1.16.x/LICENSE.txt).
 
 ```LICENSE
 

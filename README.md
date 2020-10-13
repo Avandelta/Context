@@ -9,13 +9,13 @@ This repository contains special context (libraries) for Minecraft setup. Packag
 | Version (in Minecraft) | Information Context | Branch |
 | :--------------------: | :-----------------: | :-------------: |
 | ``Vanilla 1.12.2`` | This context includes clear Minecraft 1.12.2. | [1.12.2](https://github.com/Avandelta/Context/tree/1.12.2) |
-| ``Forge 14.23.5.2854 (Modded 1.12.2)`` | This context includes specified version of [Forge](https://files.minecraftforge.net/) (14.23.5.2854) and [Optifine](https://optifine.net/) (1.12.2 HD U F6 pre1) on [Minecraft](https://www.minecraft.net/) 1.12.2. | [Forge-1.12.2](https://github.com/Avandelta/Context/tree/Forge-1.12.2) |
+| ``Forge 14.23.5.2854 (Modded 1.12.2)`` | This context includes specified version of [Forge 14.23.5.2854](https://files.minecraftforge.net/) and [Optifine 1.12.2 HD U F6 pre1](https://optifine.net/) on [Minecraft 1.12.2](https://www.minecraft.net/). | [Forge-1.12.2](https://github.com/Avandelta/Context/tree/Forge-1.12.2) |
 | ``Vanilla 1.16.1`` | This context includes clear Minecraft 1.16.1. | [1.16.1](https://github.com/Avandelta/Context/tree/1.16.1) |
-| ``Forge 32.0.108 (Modded 1.16.1)`` | This context includes specified version of [Forge](https://files.minecraftforge.net/) (32.0.108) and [Optifine](https://optifine.net/) (1.16.1 HD U G2) on [Minecraft](https://www.minecraft.net/) 1.16.1. | [Forge-1.16.1](https://github.com/Avandelta/Context/tree/Forge-1.16.1) |
+| ``Forge 32.0.108 (Modded 1.16.1)`` | This context includes specified version of [Forge 32.0.108](https://files.minecraftforge.net/) and [Optifine 1.16.1 HD U G2](https://optifine.net/) on [Minecraft 1.16.1](https://www.minecraft.net/). | [Forge-1.16.1](https://github.com/Avandelta/Context/tree/Forge-1.16.1) |
 
 ## License
 
-This repository is licensed under [MIT License](https://github.com/Avandelta/Context/blob/main/LICENSE) due [Forge License](https://github.com/MinecraftForge/MinecraftForge/blob/1.16.x/LICENSE.txt).
+This repository is licensed under [GNU LGPL-2.1 License](https://github.com/Avandelta/Context/blob/main/LICENSE) due [Forge License](https://github.com/MinecraftForge/MinecraftForge/blob/1.16.x/LICENSE.txt).
 
 ```LICENSE
 

@@ -1,0 +1,23 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+*.xml text
+
+*.csv text
+*.ini text
+*.json text
+
+*.lang text
+*.mcmeta text
+
+[diff "jar"]
+	textconv = exif
+	cachetextconv = true
+
+	*.jar diff=jar
+
+[diff "dat"]
+	textconv = exif
+	cachetextconv = false
+
+	*.dat diff=dat
